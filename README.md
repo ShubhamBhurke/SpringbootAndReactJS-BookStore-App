@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ReactJS + SpringBoot BookStore Application
 This application is built using SpringBoot and ReactJS. The Spring Boot App creates the Database and The ReactJS application retrieves and displays it. 
 ##Dependencies
@@ -18,3 +19,6 @@ Note- You can also use any similar IDE as per your wish.
 9. You can see the table displayed on the page.
 
 
+=======
+# SpringbootAndReactJS-BookStore-App
+>>>>>>> cbfe39987a29c2520b68aedd8e0b10330ffebe30
